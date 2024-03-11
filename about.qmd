@@ -2,8 +2,10 @@
 title: "About"
 ---
 
-About this site
+# About Me
 
-```{r}
-1 + 1
-```
+I am a senior biology major at the University of Massachusetts Amherst most interested in evolution and infectious disease. I am in my third year of doing research in Dr. Riley's lab, where I lead a project inferring the evolutionary relationships between antimicrobial bacteriocin proteins from their phylogenies. After graduation I intend to continue my career in academic research, gaining skills and contributing to scientific understanding.
+
+# Picture
+
+![Picture of Me](images/Sofia.jpeg)
