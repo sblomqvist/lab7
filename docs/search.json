@@ -11,6 +11,27 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About Me\nI am a senior biology major at the University of Massachusetts Amherst. I am in my third year of research in Dr. Riley’s lab, where I lead a project inferring the evolutionary relationships between antimicrobial bacteriocin proteins from their phylogenies. After graduation I intend to continue my career in academic research, gaining skills and contributing to scientific understanding, hopefully in evolution or infectious disease.\n\n\nPicture\n\n\n\nPicture of Me"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Lab 1\nLab 2"
+  },
+  {
+    "objectID": "labs.html",
+    "href": "labs.html",
+    "title": "Labs",
+    "section": "",
+    "text": "Labs here"
+  },
+  {
+    "objectID": "presentation.html",
+    "href": "presentation.html",
+    "title": "Presentation",
+    "section": "",
+    "text": "Presentation here"
   }
 ]
